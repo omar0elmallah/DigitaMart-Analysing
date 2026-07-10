@@ -36,17 +36,16 @@ DigitaMart-Data-Analysis/
 ├── requirements.txt
 │
 ├── notebook/
-│   └── يه.ipynb
+│   └── DigitaMart_Analysing.ipynb
 │
 ├── data/
 │   ├── digitamart_orders.csv
-│   └── StudentID-EgyptData-clean.csv
+│   └── digitamart_orders_clean.csv
 │
 └── images/
-    ├── revenue_by_city.png
+    ├── Order_Total_vs Delivery_Time.png
     ├── payment_methods.png
-    ├── rating_distribution.png
-    └── correlation_plot.png
+    └── revenue_by_city.png
 ```
 
 ---
